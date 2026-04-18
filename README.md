@@ -1,2 +1,1 @@
-# netbsd-evbarm64-with-pkgin
-NetBSD 10.0 evbarm64 with pkgin pre-installed (and possibly other packages)
+This image starts with pkgin installed. Other packages may have been added during testing — check the system after boot.
